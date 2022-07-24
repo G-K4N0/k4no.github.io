@@ -5,9 +5,9 @@ excerpt: "Un intent implicito en android, es la capacidad de hacer uso de una fu
 date: 2021-07-20
 classes: wide
 header:
-  teaser: https://g-k4no.github.io/k4no.io/assets/images/android_Activity/activity_android.png
+  teaser: https://g-k4n0.github.io/k4no.io/assets/images/android_Activity/activity_android.png
   teaser_home_page: true
-  icon: https://g-k4no.github.io/k4no.io/assets/images/android_logo.png
+  icon: https://g-k4n0.github.io/k4no.io/assets/images/android_logo.png
 categories:
   - Android
   - Development
