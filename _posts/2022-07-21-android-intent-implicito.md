@@ -5,9 +5,9 @@ excerpt: "Un intent implicito en android, es la capacidad de hacer uso de una fu
 date: 2021-07-20
 classes: wide
 header:
-  teaser: /assets/images/android_Activity/activity_android.png
+  teaser: ../assets/images/android_Activity/activity_android.png
   teaser_home_page: true
-  icon: /assets/images/android_logo.png
+  icon: ../assets/images/android_logo.png
 categories:
   - Android
   - Development
@@ -18,13 +18,13 @@ tags:
   - Scanner QR
 ---
 
-![Intent Implicito](/assets/images/android_scanner_implicit/scann.jpg)
+![Intent Implicito](../assets/images/android_scanner_implicit/scann.jpg)
 
 El ejercicio consta de hacer uso de una aplicación de terceros y traer la información a nuestro aplicativo, la ventaja es que solo son necesarios unas cuantas lineas de código para poder implentar las funcionalidades que nosotros necesitemos, ya que si lo hacemos desde cero seria mas tardado el desarrollo.
 
 Iniciamos con el layout el cúal es bastante sencillo, consta de un **Button** para poder iniciar el lector de codigos y un **TextView** para mostrar la información escaneada.
 
-![layout](/assets/images/android_scanner_implicit/layout_scanner.png)
+![layout](../assets/images/android_scanner_implicit/layout_scanner.png)
 ## main_layout.xml
 
 ```
@@ -136,17 +136,17 @@ Aqui vamos a ocupar la libreria de `zxing`, esta libreria será la estaremos ocu
 
 ## Ejecución
 
-![](/assets/images/android_scanner_implicit/scanner_init.png)
+![](../assets/images/android_scanner_implicit/scanner_init.png)
 
 ## Escaneo de código
-![Escaneo](/assets/images/android_scanner_implicit/code_scanning.png)
+![Escaneo](../assets/images/android_scanner_implicit/code_scanning.png)
 
 ## Resultado del escaneo
 
-![Resultado](/assets/images/android_scanner_implicit/result_scanning.png)
+![Resultado](../assets/images/android_scanner_implicit/result_scanning.png)
 
 Cabe destacar que tengo instalado un lector de código de barras/qr al que llamo desde la aplicación de práctica.
-![Apps](/assets/images/android_scanner_implicit/apps.png)
+![Apps](../assets/images/android_scanner_implicit/apps.png)
 
 Este ejemplo se encuentra en:
 - [https://github.com/G-K4N0/QRSCANNER](https://github.com/G-K4N0/QRSCANNER)
