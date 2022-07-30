@@ -1,8 +1,12 @@
 ---
-title: "Acerca de"
+layout: single
+title: "K4NO"
 permalink: /about/
-date: 2022-07-19
----
 
+---  
+![](../assets/images/avatar_about.png)
 
-Estoy en la carrera de Sistemas Computacionales, aunque me agrada la seguridad informática. Por lo que  estaré compartiendo lo referente a los temas que estaré viendo en la Universidad y tambien compartiré lo que aprenda de seguridad informatica.
+> Comenzando en el mundo de la programacion, con el lenguaje de Java enfocado en android, incluido algo de desarrollo web usando HTM, CSS y algo de JavaScript.
+
+> La seguridad informatica es una de las ramas que estoy indagando por lo que tambien publicaré ejercicios relacionados a este campo.
+
