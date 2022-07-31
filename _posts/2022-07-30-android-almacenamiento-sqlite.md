@@ -5,9 +5,9 @@ excerpt: "En el dia de hoy es importante poder almacenar datos para que al momen
 date: 2021-07-30
 classes: wide
 header:
-  teaser: ../assets/images/android_sqlite/Android-SQLite.jpg
+  teaser: https://g-k4n0.github.io/k4no.io/assets/images/android_sqlite/Android-SQLite.jpg
   teaser_home_page: true
-  icon: ../assets/images/android_sqlite/sqlite_icon.png
+  icon: https://g-k4n0.github.io/k4no.io/assets/images/android_sqlite/sqlite_icon.png
 categories:
   - Android
   - SQLite
