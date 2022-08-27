@@ -5,7 +5,7 @@ excerpt: "Una API (Interfaz de Programación de Aplicaciones es un conjunto de d
 date: 2021-08-26
 classes: wide
 header:
-  teaser: https://g-k4n0.github.io.k4no.io/assets/images/android_api/api_android.png
+  teaser: https://g-k4n0.github.io/k4no.io/assets/images/android_api/api_android.png
   teaser_home_page: true
   icon: https://g-k4n0.github.io/k4no.io/assets/images/android_logo.png
 categories:
