@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "K4TO"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Android Developer" 
+  bio              : "ANDROID, JAVA, PYTHON" 
   location         : #""
   email            : #"info@snowscan.io"
   uri              :
@@ -118,7 +118,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          : #"snowscan"
-  instagram        :
+  instagram        : gabri_el_kano
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
