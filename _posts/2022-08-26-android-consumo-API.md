@@ -2,7 +2,7 @@
 layout: single
 title: Consumo de API
 excerpt: "Una API (Interfaz de Programación de Aplicaciones es un conjunto de definiciones y protocolos que se usan para diseñar e integrar el software de las aplicaciones )"
-date: 2021-08-26
+date: 2022-08-26
 classes: wide
 header:
   teaser: https://g-k4n0.github.io/k4no.io/assets/images/android_api/api_android.png
