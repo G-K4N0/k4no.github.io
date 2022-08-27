@@ -2,7 +2,7 @@
 layout: single
 title: Almacenamiento de datos (SQLite)
 excerpt: "En el dia de hoy es importante poder almacenar datos para que al momento de apagar el dispositivo o simplemente cerrar una aplicación, no perdamos nada de información que es vital de acuerdo al ambito en el que estivieramos."
-date: 2021-07-30
+date: 2022-07-30
 classes: wide
 header:
   teaser: https://g-k4n0.github.io/k4no.io/assets/images/android_sqlite/Android-SQLite.jpg

@@ -2,7 +2,7 @@
 layout: single
 title: Intent-Implicito (Scanner)
 excerpt: "Un intent implicito en android, es la capacidad de hacer uso de una funcionalidad especifica para una aplicación sin que nosotros lo desarrollemos, esto se logra haciendo uso de uno que ya está instalado en el celular y posteriormente el dato que nos interesa, tratarlo en nuestra propia aplicación. Esto es muy usado por muchas aplicaciones hoy en dia, como el de compartir un archivo o simplemente tomar una foto."
-date: 2021-07-20
+date: 2022-07-20
 classes: wide
 header:
   teaser: https://g-k4n0.github.io/k4no.io/assets/images/android_Activity/activity_android.png
