@@ -149,7 +149,7 @@ Cabe destacar que tengo instalado un lector de código de barras/qr al que llamo
 ![Apps](../assets/images/android_scanner_implicit/apps.png)
 
 Este ejemplo se encuentra en:
-- [https://github.com/G-K4N0/QRSCANNER](https://github.com/G-K4N0/QRSCANNER)
+- [QRSCANNER](https://github.com/G-K4N0/QRSCANNER)
 
 Repositorio de la libreria:
-- [https://github.com/zxing/zxing](https://github.com/zxing/zxing)
+- [zxing](https://github.com/zxing/zxing)

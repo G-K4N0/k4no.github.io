@@ -844,4 +844,4 @@ helper = new EmpleadoHelper(this); //recuerdemos que solo le pasamos el contexto
  179   │ }
 ```
 Ejemplo se encuentra en:
-- [Ejemplo SQLite](https://github.com/G-K4N0/Exam)
+- [SQLite](https://github.com/G-K4N0/Exam)
